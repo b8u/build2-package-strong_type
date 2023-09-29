@@ -1,0 +1,7 @@
+: 1
+name: strong_type-tests
+version: 12.0.0
+language: c++
+project: strong_type
+summary: strong_type tests
+license: BSL-1.0
