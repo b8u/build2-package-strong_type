@@ -1,3 +1,3 @@
 # strong_type-tests
 
-C++ executable
+Just tests for strong_type lib.
