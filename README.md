@@ -6,13 +6,13 @@
 You can simply add this package as dependency to your project by specifying it in your `manifest`:
 
 ```
-depends: string_type ^12.0.0
+depends: strong_type ^12.0.0
 ```
 
 Then just pick the targets that you need:
 
 ```
-import libs  = string_type%lib{string_type}
+import libs  = strong_type%lib{strong_type}
 ```
 
 Make sure to add the stable section of the cppget.org repository to your project's repositories.manifest to be able to fetch the package.

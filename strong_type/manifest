@@ -13,4 +13,4 @@ package-email: lily.coder@gmail.com
 depends: * build2 >= 0.16.0
 depends: * bpkg >= 0.16.0
 
-tests: string_type-tests == $
+tests: strong_type-tests == $
