@@ -3,7 +3,7 @@ import libs += strong_type%lib{strong_type}
 import libs += catch2%lib{catch2}
 import libs += catch2%liba{catch2wmain}
 
-exe{strong_type-tests}: {hxx ixx txx cxx}{**} $libs testscript
+exe{strong_type-tests}: {hxx ixx txx cxx}{**} $libs
 
 cxx.poptions =+ "-DCATCH2=3"
 cxx.poptions =+ "-I$out_root" "-I$src_root"
