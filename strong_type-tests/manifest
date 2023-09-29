@@ -1,0 +1,19 @@
+: 1
+name: strong_type-tests
+version: 12.0.0
+language: c++
+project: strong_type
+summary: strong_type tests
+license: BSL-1.0
+description-file: README.md
+url: https://github.com/rollbear/strong_type
+package-url: https://github.com/build2-packaging/strong_type
+package-email: lily.coder@gmail.com
+
+depends: * build2 >= 0.16.0
+depends: * bpkg >= 0.16.0
+
+depends: catch2 ^3.0.0
+depends: fmt ^10.0.0
+
+depends: strong_type == $

@@ -1,0 +1,6 @@
+$out_root/
+{
+  include strong_type/
+}
+
+export $out_root/strong_type/$import.target

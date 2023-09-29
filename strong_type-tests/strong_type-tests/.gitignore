@@ -1,0 +1,5 @@
+strong_type-tests
+
+# Testscript output directory (can be symlink).
+#
+test-strong_type-tests
