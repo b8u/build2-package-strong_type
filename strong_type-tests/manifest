@@ -1,6 +1,6 @@
 : 1
 name: strong_type-tests
-version: 12.0.0
+version: 12.0.0-a.0.z
 language: c++
 project: strong_type
 summary: strong_type tests
