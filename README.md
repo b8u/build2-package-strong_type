@@ -1,6 +1,8 @@
 # strong_type
 `build2` package for the [`strong_type`](https://github.com/rollbear/strong_type) C++ library.
 
+Note: This is the source code for the build2 package of the `strong_type` C++ library, the actual library sources snapshot can be found in the ./upstream/ submodule.
+
 ## Usage
 
 You can simply add this package as dependency to your project by specifying it in your `manifest`:

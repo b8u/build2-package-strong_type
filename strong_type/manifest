@@ -3,7 +3,7 @@ name: strong_type
 version: 12.0.0
 type: lib,binless
 language: c++
-summary: strong_type C++ library
+summary: An additive strong typedef library for C++14/17/20
 license: BSL-1.0
 description-file: README.md
 url: https://github.com/rollbear/strong_type
