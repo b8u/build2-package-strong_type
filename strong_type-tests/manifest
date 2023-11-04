@@ -7,7 +7,7 @@ summary: An additive strong typedef library for C++14/17/20, tests
 license: BSL-1.0
 description-file: README.md
 url: https://github.com/rollbear/strong_type
-package-url: https://github.com/b8u/build2-package-strong_type
+package-url: https://github.com/build2-packaging/strong_type
 
 depends: * build2 >= 0.16.0
 depends: * bpkg >= 0.16.0
