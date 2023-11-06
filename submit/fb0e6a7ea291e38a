@@ -1,0 +1,7 @@
+: 1
+name: strong_type-tests
+version: 12.0.0+1
+language: c++
+project: strong_type
+summary: An additive strong typedef library for C++14/17/20, tests
+license: BSL-1.0
